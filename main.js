@@ -1,1 +1,8 @@
-console.log('Hello, World! This is the main.js file for the Lab Gestão Configuração project.');
+console.log('Hello');
+console.log('World');
+console.log('adeus');
+console.log('adeus');
+console.log('adeus');
+console.log('adeus');
+console.log('poi');
+console.log('poi');
